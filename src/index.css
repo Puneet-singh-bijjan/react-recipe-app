@@ -1,5 +1,4 @@
 *{
-  margin: 0rem 20%;
   font-family: 'Montserrat', sans-serif;
 }
 
@@ -10,13 +9,15 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  margin: 0rem 10%;
+
 }
 
 h3{
   color: rgb(69, 68, 68);
   font-size: 1.5rem;
   line-height: 2.5rem;
-  margin: 2rem 0;
+  /* margin: 2rem 0; */
 }
 h4{
   color: rgb(69, 68, 68);

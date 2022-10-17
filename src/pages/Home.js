@@ -1,7 +1,7 @@
 import React from "react";
 
 import Popular from "../components/Popular";
-import Recipe from "../components/Recipe";
+import Recipe from "../components/Veggie";
 
 function Home() {
   return (
